@@ -5,4 +5,4 @@ description: My personal portfolio of my Data Minning, Science and Analytics wor
 show_downloads: true
 theme: jekyll-theme-minimal
 
-[#Projects](./Projects.html)
+[Projects](./Projects.md)
