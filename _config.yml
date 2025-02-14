@@ -27,4 +27,5 @@ navigation:
   - name: Projects
     link: ./Projects.html
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
