@@ -48,7 +48,7 @@ This project demonstrates a **quantitative approach to risk management**, provid
 
 ![Histogram of Returns + VaR values](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Rplot02.png)
 
-![[Back Testing](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Rplot.png)
+![Back Testing](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Rplot.png)
 
 
 ### Code:
