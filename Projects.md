@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-#Projects
-This is where I will upload my project that I have done through out my Data Analytics journey.
+# Projects
+
+Here you can explore all the project I have been working on during my studies or personal research.
 
 ## [1. Value at Risk (VaR) Analysis of AAPL Stock](./Projects/Risk Analysis and Value at Risk (VaR).html)
 
