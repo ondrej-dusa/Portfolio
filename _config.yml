@@ -1,7 +1,32 @@
-title: Portfolio
 logo : /assets/Screenshot 2025-02-13 204548.png
+title: Portfolio
+email: dusaondrej@gmail.com
 author: Ondrej Dusa
-description: My personal portfolio of my Data Minning, Science and Analytics work. Where you can explore my work.
+description: My personal resume and portfolio of my Data Minning, Science and Analytics work.
 show_downloads: true
 theme: jekyll-theme-minimal
 
+favicon: true
+#color-scheme: auto
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/ondrej-dusa
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/ondrej-dusa-10955b21a/
+
+navigation:
+  - name: Readme
+    link: ./index.html
+    sublist:
+      - name: Image
+        link: ./index.html#small-image
+  - name: Projects
+    link: ./Projects.html
