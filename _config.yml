@@ -1,7 +1,7 @@
 logo : /assets/Screenshot 2025-02-13 204548.png
 title: Portfolio
 email: dusaondrej@gmail.com
-#description: My personal resume and portfolio of my Data Minning, Science and Analytics work.
+description: My personal resume and portfolio of my Data Minning, Science and Analytics work.
 favicon: true
 #color-scheme: auto
 
@@ -19,13 +19,15 @@ platforms:
     link: https://www.linkedin.com/in/ondrej-dusa-10955b21a/
 
 navigation:
-  - name: Readme
+  - name: Resume
     link: ./index.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
   - name: Projects
     link: ./Projects.html
+    sublist:
+      - name: Risk Analysis (VaR)
+        link: ./Projects/Risk Analysis and Value at Risk (VaR).html
+      - name: Coffee Sales 2024
+        link: ./Projects/Coffee Sales 2024.html
 
 #theme: jekyll-theme-minimal
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
