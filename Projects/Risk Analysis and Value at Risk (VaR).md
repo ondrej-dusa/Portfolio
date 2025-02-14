@@ -1,3 +1,4 @@
+```r
 library(quantmod)        # For financial data
 library(PerformanceAnalytics) # For VaR calculation
 library(ggplot2)         # For visualization
@@ -73,6 +74,7 @@ ggplot(backtest_data, aes(x = Method, y = Exceptions, fill = Method)) +
        y = "Number of Exceptions") +
   theme_minimal() +
   theme(plot.title = element_text(hjust = 0.5))
+```
 
 # Print results
 cat("Historical VaR at 95% confidence level:", percent(historical_VaR_value, accuracy = 0.001), "\n")
