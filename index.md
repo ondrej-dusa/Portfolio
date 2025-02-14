@@ -28,9 +28,9 @@ author: Ondrej Dusa
 ---
 
 ## 📚 Relevant Coursework  
-- **Mathematics & Programming**: Linear Algebra and Programming | Regression Analysis in R  
-- **Data Science & AI**: Statistical Analysis & Machine Learning with R | Artificial Intelligence  
-- **Business & Analytics**: Business Analytics in Excel | Computer Programming for Data Analytics  
+- **Mathematics & Programming**: Linear Algebra and Programming, Regression Analysis in R  
+- **Data Science & AI**: Statistical Analysis & Machine Learning with R, Artificial Intelligence  
+- **Business & Analytics**: Business Analytics in Excel, Computer Programming for Data Analytics  
 - **Databases & SQL**: Database Systems in SQL  
 
 ---
