@@ -1,11 +1,7 @@
 logo : /assets/Screenshot 2025-02-13 204548.png
 title: Portfolio
 email: dusaondrej@gmail.com
-author: Ondrej Dusa
 description: My personal resume and portfolio of my Data Minning, Science and Analytics work.
-show_downloads: true
-theme: jekyll-theme-minimal
-
 favicon: true
 #color-scheme: auto
 
@@ -30,3 +26,5 @@ navigation:
         link: ./index.html#small-image
   - name: Projects
     link: ./Projects.html
+
+theme: jekyll-theme-minimal
