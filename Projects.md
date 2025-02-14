@@ -4,7 +4,7 @@ layout: default
 #Projects
 This is where I will upload my project that I have done through out my Data Analytics journey.
 
-## [Value at Risk (VaR) Analysis of AAPL Stock](./Projects/Risk Analysis and Value at Risk (VaR).html)
+## [1. Value at Risk (VaR) Analysis of AAPL Stock](./Projects/Risk Analysis and Value at Risk (VaR).html)
 
 This project analyzes the Value at Risk (VaR) of Apple Inc. (AAPL) stock using historical, parametric, and Monte Carlo methods. 
 
