@@ -6,7 +6,7 @@ author: Ondrej Dusa
 # Ondrej Duša  
 📞 +1 (636) 389 7921 | 📍 Charlotte, NC 28274  
 ✉️ [dusaondrej@gmail.com](mailto:dusaondrej@gmail.com) | [LinkedIn - Ondrej Dusa](#)  
-[#Projects](./Projects.html)
+[Projects](./Projects.html)
 
 ---
 
