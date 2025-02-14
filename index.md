@@ -33,8 +33,9 @@ author: Ondrej Dusa
 ---
 
 ## 💻 Technical Skills  
-- **Software & Tools**: Microsoft Word, Excel, PowerPoint, Access | Tableau, Power BI | Canva  
-- **Programming**: Python (Colab) | C++ | R | SQL (MySQL, DB Browser)  
+- **Software & Tools**: Microsoft Word, Excel, PowerPoint, Access,
+- **Vizualizations**: Tableau, Power BI, Canva  
+- **Programming**: Python (Jupyter), RStudio, SQL (MySQL, DB Browser)  
 - **Web Development**: WordPress, WooCommerce  
 - **Marketing & Analytics**: Google Ads, Google Merchant Center, Google Analytics  
 - **Version Control**: Git, GitHub  
@@ -76,13 +77,13 @@ author: Ondrej Dusa
 
 ## 📜 Certifications  
 
-- **Cisco Certified Network Associate Routing and Switching (CCNA)** *(Issued May 2020)*  
+**Cisco Certified Network Associate Routing and Switching (CCNA)** *(Issued May 2020)*  
 
 ---
 
 ## 🏅 Accomplishments & Additional Information  
 
-- **10x Slovak National Swimming Champion** & proud Slovakia Federation Swimmer *(2019)*  
-- **NCAA D1 Conference Medalist**: 🥈 2nd Place (100 Free, 2023) | 🥉 3rd Place (100 Free, 2024)  
-- **Languages**: Slovak (C2) | English (C2) | Czech (C2)  
+**10x Slovak National Swimming Champion** & proud Slovakia Federation Swimmer *(2019)*  
+**NCAA D1 Conference Medalist**: 🥈 2nd Place (100 Free, 2023) | 🥉 3rd Place (100 Free, 2024)  
+**Languages**: Slovak (C2) | English (C2) | Czech (C2)  
 
