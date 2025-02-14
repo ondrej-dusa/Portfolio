@@ -1,3 +1,51 @@
+# Value at Risk (VaR) Analysis of AAPL Stock
+
+## Overview
+This project performs a comprehensive Value at Risk (VaR) analysis of Apple Inc. (AAPL) stock, utilizing multiple risk estimation techniques. VaR is a key risk management metric used to estimate the potential loss in value of an asset over a given time period with a specified confidence level. The analysis employs **historical VaR, parametric (Gaussian) VaR, and Monte Carlo simulation** to assess potential downside risk.
+
+## Methodology
+
+### 1. Data Collection
+- Retrieves **historical stock prices** of AAPL from Yahoo Finance using the `quantmod` package.
+- Extracts the adjusted closing prices and calculates **daily log returns**.
+- Handles missing values and ensures clean financial data.
+
+### 2. VaR Calculation
+- **Historical VaR:** Uses the empirical distribution of past returns to estimate risk.
+- **Parametric VaR:** Assumes returns follow a normal distribution and calculates risk based on mean and standard deviation.
+- **Monte Carlo Simulation:** Generates 10,000 return simulations based on historical statistics to estimate potential future losses.
+
+### 3. Backtesting
+- Compares actual returns against calculated VaR thresholds.
+- Counts **exceptions** where actual losses exceed the estimated VaR, evaluating model accuracy.
+
+### 4. Visualization
+- **Histogram of Returns:** Displays the distribution of AAPL's daily returns.
+- **VaR Thresholds:** Red and green vertical lines indicate the historical and parametric VaR levels, respectively.
+
+## Technologies Used
+- **R Programming Language**
+- `quantmod` – Financial data extraction
+- `PerformanceAnalytics` – Risk and return analytics
+- `ggplot2` – Data visualization
+- `dplyr` – Data manipulation
+
+## Key Insights
+- The analysis provides an estimation of **potential losses** for AAPL stock under different market conditions.
+- Backtesting ensures that the VaR models remain reliable for risk assessment.
+- Combining multiple VaR methodologies allows for a **more robust risk analysis**.
+
+## Future Improvements
+- Incorporate **conditional VaR (CVaR)** for deeper risk assessment.
+- Extend analysis to multiple assets for **portfolio-wide risk management**.
+- Utilize **GARCH models** to account for volatility clustering in financial time series.
+
+This project demonstrates a **quantitative approach to risk management**, providing insights into financial market risk using statistical modeling and simulation techniques.
+
+## Images:
+
+
+### Code:
 ```r
 library(quantmod)        # For financial data
 library(PerformanceAnalytics) # For VaR calculation
@@ -82,3 +130,6 @@ cat("Parametric VaR at 95% confidence level:", percent(parametric_VaR_value, acc
 cat("Monte Carlo VaR at 95% confidence level:", percent(quantile(monte_carlo_VaR, 0.05), accuracy = 0.001), "\n")
 cat("Number of exceptions (Historical VaR):", exceptions_historical, "\n")
 cat("Number of exceptions (Parametric VaR):", exceptions_parametric, "\n")
+
+
+### [Back](./)
