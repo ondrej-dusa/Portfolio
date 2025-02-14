@@ -44,18 +44,11 @@ This project demonstrates a **quantitative approach to risk management**, provid
 
 ## Images:
 
-![Value at Risk Forecast](assets/Rplot01.png)
-<img src="assets/Rplot01.png"> 
 ![Value at Risk Forecast](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Rplot01.png)
 
+![Histogram of Returns + VaR values](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Rplot02.png)
 
-![Value at Risk Forecast](assets/LinkedIN.jpg)
-<img src="assets/LinkedIN.jpg"> 
-![Value at Risk Forecast](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/LinkedIN.jpg)
-
-![Histogram of Returns + VaR values](/assets/Rplot02.png)
-
-![Back Testing](/assets/Rplot.png)
+![[Back Testing](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Rplot.png)
 
 
 ### Code:
