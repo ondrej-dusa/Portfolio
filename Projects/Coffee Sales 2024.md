@@ -75,3 +75,11 @@ This project presents an interactive dashboard designed to analyze coffee and te
     
 
 This project demonstrates my ability to create compelling and informative dashboards in Power BI that provide actionable insights to stakeholders. The interactive design allows for easy exploration of the data and a deeper understanding of key business drivers.
+
+## Preview: 
+
+![Value at Risk Forecast](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Coffee_Sales_2024.png)
+
+![Value at Risk Forecast](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Sales_by_Product_Type_2024.png)
+
+[Back](./Projects.md)
