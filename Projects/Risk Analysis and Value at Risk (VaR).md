@@ -44,6 +44,12 @@ This project demonstrates a **quantitative approach to risk management**, provid
 
 ## Images:
 
+![Value at Risk Forecast](/assets/Rplot01.png)
+
+![Histogram of Returns + VaR values](/assets/Rplot02.png)
+
+![Back Testing](/assets/Rplot.png)
+
 
 ### Code:
 ```r
