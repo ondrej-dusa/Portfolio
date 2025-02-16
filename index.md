@@ -8,7 +8,10 @@ author: Ondrej Dusa
 ✉️ [dusaondrej@gmail.com](mailto:dusaondrej@gmail.com) | [LinkedIn - Ondrej Dusa](#)  
 
 # Importnat Links:
- - ### [Projects](./Projects.md)
+ - ## [Projects](./Projects.md)
+   - ### [1. Two-Year Expense Analysis and Forecasting Project](.Projects/Two-Year Expense Analysis and Forecasting Project.html)
+   - ### [2. Value at Risk (VaR) Analysis of AAPL Stock](./Projects/Risk Analysis and Value at Risk (VaR).html)
+   - ### [3. Power BI: Coffee & Tea Sales Dashboard 2024](./Projects/Coffee Sales 2024.html)
 
 ---
 
