@@ -82,4 +82,4 @@ This project demonstrates my ability to create compelling and informative dashbo
 
 ![Value at Risk Forecast](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Sales_by_Product_Type_2024.png)
 
-[Back](./Projects.md)
+### [Back](https://ondrej-dusa.github.io/Portfolio/Projects.html)
