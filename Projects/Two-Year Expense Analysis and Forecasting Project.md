@@ -100,3 +100,5 @@ This project demonstrates a practical approach to financial analysis, providing 
 
 ![Marketing Forecast](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Screenshot%202025-02-15%20202111.png)
 
+
+### [Back](https://ondrej-dusa.github.io/Portfolio/Projects.html)
