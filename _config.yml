@@ -20,9 +20,9 @@ platforms:
 
 navigation:
   - name: Resume
-    link: https://github.com/ondrej-dusa/Portfolio/
+    link: https://ondrej-dusa.github.io/Portfolio/
   - name: Projects
-    link: ./Projects.html
+    link: https://ondrej-dusa.github.io/Portfolio/Projects.html
     sublist:
       - name: Two-Year Expense Analysis and Forecasting Project
         link: https://ondrej-dusa.github.io/Portfolio/Projects/Two-Year%20Expense%20Analysis%20and%20Forecasting%20Project.html
