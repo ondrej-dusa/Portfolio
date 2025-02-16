@@ -20,7 +20,7 @@ platforms:
 
 navigation:
   - name: Resume
-    link: ./index.html
+    link: https://github.com/ondrej-dusa/Portfolio/blob/main/index.md
   - name: Projects
     link: ./Projects.html
     sublist:
