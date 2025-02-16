@@ -24,10 +24,12 @@ navigation:
   - name: Projects
     link: ./Projects.html
     sublist:
+      - name: Two-Year Expense Analysis and Forecasting Project
+        link: ./Projects/Two-Year Expense Analysis and Forecasting Project.html
       - name: Risk Analysis (VaR)
         link: ./Projects/Risk Analysis and Value at Risk (VaR).html
       - name: Coffee Sales 2024
         link: ./Projects/Coffee Sales 2024.html
-
+        
 #theme: jekyll-theme-minimal
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
