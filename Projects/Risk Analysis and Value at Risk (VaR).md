@@ -128,14 +128,13 @@ ggplot(backtest_data, aes(x = Method, y = Exceptions, fill = Method)) +
        y = "Number of Exceptions") +
   theme_minimal() +
   theme(plot.title = element_text(hjust = 0.5))
-```
 
 # Print results
-cat("Historical VaR at 95% confidence level:", percent(historical_VaR_value, accuracy = 0.001), "\n")
-cat("Parametric VaR at 95% confidence level:", percent(parametric_VaR_value, accuracy = 0.001), "\n")
-cat("Monte Carlo VaR at 95% confidence level:", percent(quantile(monte_carlo_VaR, 0.05), accuracy = 0.001), "\n")
-cat("Number of exceptions (Historical VaR):", exceptions_historical, "\n")
-cat("Number of exceptions (Parametric VaR):", exceptions_parametric, "\n")
-
+print("Historical VaR at 95% confidence level:", percent(historical_VaR_value, accuracy = 0.001), "\n")
+print("Parametric VaR at 95% confidence level:", percent(parametric_VaR_value, accuracy = 0.001), "\n")
+print("Monte Carlo VaR at 95% confidence level:", percent(quantile(monte_carlo_VaR, 0.05), accuracy = 0.001), "\n")
+print("Number of exceptions (Historical VaR):", exceptions_historical, "\n")
+print("Number of exceptions (Parametric VaR):", exceptions_parametric, "\n")
+```
 
 ### [Back](./Projects.html)
