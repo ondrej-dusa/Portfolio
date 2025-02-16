@@ -20,16 +20,16 @@ platforms:
 
 navigation:
   - name: Resume
-    link: https://github.com/ondrej-dusa/Portfolio/blob/main/index.md
+    link: https://github.com/ondrej-dusa/Portfolio/
   - name: Projects
     link: ./Projects.html
     sublist:
       - name: Two-Year Expense Analysis and Forecasting Project
-        link: ./Projects/Two-Year Expense Analysis and Forecasting Project.html
+        link: https://ondrej-dusa.github.io/Portfolio/Projects/Two-Year%20Expense%20Analysis%20and%20Forecasting%20Project.html
       - name: Risk Analysis (VaR)
-        link: ./Projects/Risk Analysis and Value at Risk (VaR).html
+        link: https://ondrej-dusa.github.io/Portfolio/Projects/Risk%20Analysis%20and%20Value%20at%20Risk%20(VaR).html
       - name: Coffee Sales 2024
-        link: ./Projects/Coffee Sales 2024.html
+        link: https://ondrej-dusa.github.io/Portfolio/Projects/Coffee%20Sales%202024.html
         
 #theme: jekyll-theme-minimal
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
