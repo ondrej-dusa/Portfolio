@@ -92,5 +92,17 @@ This project demonstrates a practical approach to financial analysis, providing 
 
 ## Images
 
+![Operating Expanses](https://github.com/ondrej-dusa/Portfolio/blob/main/assets/Screenshot%202025-02-15%20202037.png)
+
+![Fixed Expanses](https://github.com/ondrej-dusa/Portfolio/blob/main/assets/Screenshot%202025-02-15%20202050.png)
+
+![Data](https://github.com/ondrej-dusa/Portfolio/blob/main/assets/Screenshot%202025-02-15%20202101.png)
+
+![Marketing Forecast](https://github.com/ondrej-dusa/Portfolio/blob/main/assets/Screenshot%202025-02-15%20202118.png)
+
+![Marketing Forecast](https://github.com/ondrej-dusa/Portfolio/blob/main/assets/Screenshot%202025-02-15%20202111.png)
 
 ## Files
+
+- Data(CSV): ![Data](https://github.com/ondrej-dusa/Portfolio/blob/main/assets/Expanses_Data.csv)
+- Forecast(xlxs): ![Data](https://github.com/ondrej-dusa/Portfolio/blob/main/assets/Expanse%20Forecast.xlsx)
