@@ -20,7 +20,7 @@ author: Ondrej Dusa
 ### Queens University of Charlotte | Charlotte, NC  
 **Bachelor of Arts in Data Analytics** *(Expected: July 2025)*  
 - Academics and athletics scholarships recipient *(GPA: 3.9)*  
-- Contributed to Data Analytics and Investment Student Associations  
+- **President, Data Analytics Student Association (DASA)** 
 - Expanding studies with a business concentration  
 
 ### Lindenwood University | St. Charles, MO  
@@ -78,6 +78,14 @@ author: Ondrej Dusa
 **Student Athlete – Division 1 Swimming (Dec 2022 – Present)**  
 - **20+ hrs/week** of training as part of the Men’s Swimming Team.  
 - Awarded **Hardest Worker of the Year (2023 – 2024)** at Lindenwood University.  
+
+### President of Data Analytics Student Association (DASA)
+**Queens University of Charlotte  (Jan 2024 – Present)**  
+- Serve as the **chief executive officer** of DASA, overseeing all club activities, initiatives, and strategic planning.
+- Lead executive board meetings and general member meetings, setting the overall vision and goals for the organization.
+- Conducting hands-on workshops on tools like **Tableau, Power BI, and Excel** for business analytics and data visualization.
+- Assisting members with data-driven projects, such as **data preprocessing, feature engineering,** and AI model development.
+
 
 ---
 
