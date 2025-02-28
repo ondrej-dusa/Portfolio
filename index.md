@@ -7,7 +7,7 @@ author: Ondrej Dusa
 📞 +1 (636) 389 7921 | 📍 Charlotte, NC 28274  
 ✉️ [dusaondrej@gmail.com](mailto:dusaondrej@gmail.com) | [LinkedIn - Ondrej Dusa](https://www.linkedin.com/in/ondrej-dusa-10955b21a/)  
 
-# Importnat Links:
+# Important Links:
  - ## [Projects](./Projects.md)
    - ### [1. Two-Year Expense Analysis and Forecasting Project](./Projects/Two-Year Expense Analysis and Forecasting Project.html)
    - ### [2. Value at Risk (VaR) Analysis of AAPL Stock](./Projects/Risk Analysis and Value at Risk (VaR).html)
