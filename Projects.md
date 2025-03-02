@@ -49,6 +49,21 @@ This project is an interactive Power BI dashboard visualizing 2024 sales data fo
 
 Technologies: `Power BI`, `DAX`, `Data Visualization`
 
-Key Insight: Highlights key markets (Central), best-selling products (Colombian Coffee), and overall sales performance trends, enabling data-driven business decisions.
+**Key Insight**: Highlights key markets (Central), best-selling products (Colombian Coffee), and overall sales performance trends, enabling data-driven business decisions.
+
+## [4. Descriptive Statistics and Data Visualization of MPG Dataset](./Projects/Exploratory Data Analysis (EDA) of MPG Dataset.html)
+
+This project explores the MPG dataset through descriptive statistics and visualization techniques to analyze acceleration and other key attributes.
+
+### Key Steps:
+
+- **Data Collection:** Loads and cleans the MPG dataset to ensure accurate analysis.
+- **Descriptive Statistics:** Computes mean, standard deviation, skewness, kurtosis, and other statistical measures.
+- **Histogram Analysis:** Plots acceleration distribution with KDE overlay and statistical annotations.
+- **Boxplot & Grouped Histograms:** Visualizes acceleration across different cylinder configurations.  
+
+Technologies: `Python`, `pandas`, `matplotlib`, `seaborn`, `scipy`
+
+**Key Insight**: Statistical and visual exploration of vehicle acceleration patterns, highlighting distribution characteristics and differences by engine type.
 
 ### [Back](./)
