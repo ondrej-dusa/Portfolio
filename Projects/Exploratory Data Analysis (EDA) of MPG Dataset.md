@@ -133,3 +133,5 @@ Key Insights
 -  Skewness and kurtosis metrics highlight deviations from normality, suggesting that transformations or non-parametric methods may be necessary for further modeling.
 
 This project demonstrates a structured approach to data exploration, leveraging descriptive statistics and visualization techniques to uncover insights from real-world datasets.
+
+### [Back](https://ondrej-dusa.github.io/Portfolio/Projects.html)
