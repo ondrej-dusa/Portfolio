@@ -30,6 +30,8 @@ navigation:
         link: https://ondrej-dusa.github.io/Portfolio/Projects/Risk%20Analysis%20and%20Value%20at%20Risk%20(VaR).html
       - name: Coffee Sales 2024
         link: https://ondrej-dusa.github.io/Portfolio/Projects/Coffee%20Sales%202024.html
+      - name: EDA of MPG
+        link: https://ondrej-dusa.github.io/Portfolio/Projects/Exploratory%20Data%20Analysis%20(EDA)%20of%20MPG%20Dataset.html
         
 #theme: jekyll-theme-minimal
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
