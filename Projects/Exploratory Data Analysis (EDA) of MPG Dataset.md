@@ -1,6 +1,5 @@
 # Exploratory Data Analysis (EDA) of MPG Dataset  
 
-## Overview  
 This project conducts an Exploratory Data Analysis (EDA) on a dataset containing vehicle fuel efficiency (MPG), acceleration, and various car attributes. The analysis applies statistical techniques to summarize data, detect patterns, and visualize relationships.  
 
 ## Methodology  
