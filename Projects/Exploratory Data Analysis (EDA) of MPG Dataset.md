@@ -62,6 +62,8 @@ desc_stat
 -  Creates a histogram of vehicle acceleration with optimal bin count using the Freedman-Diaconis rule.
 -  Displays mean, standard deviation, skewness, and kurtosis.
 
+![Histogram](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Histogram_Colab.png)
+
 ```python
 n = len(mpg["Acceleration"].dropna())  
 bin_count = int(round(n ** (1/3)))  
@@ -84,6 +86,8 @@ plt.ylabel("Count", fontsize=12)
 
 -  Compares acceleration distribution across 4-cylinder and 8-cylinder vehicles.
 -  Uses a combination of boxplots and histograms to illustrate differences.
+
+![Combined_Plot](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Combined_Plot_Colab.png)
 
 ```python
 mpg_filtered = mpg[mpg["Cylinders"].isin([4, 8])]  
