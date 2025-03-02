@@ -97,7 +97,8 @@ author: Ondrej Dusa
 
 ## 🏅 Accomplishments & Additional Information  
 
-**10x Slovak National Swimming Champion** & proud Slovakia Federation Swimmer *(2019)*  
-**NCAA D1 Conference Medalist**: 🥈 2nd Place (100 Free, 2023) | 🥉 3rd Place (100 Free, 2024)  
-**Languages**: Slovak (C2) | English (C2) | Czech (C2)  
+- **10x Slovak National Swimming Champion** & proud Slovakia Federation Swimmer *(2019)*  
+- **NCAA D1 Conference Champion** (2025) 
+- **NCAA D1 Conference Medalist**: 🥈 2nd Place (100 Free, 2023) | 🥉 3rd Place (100 Free, 2024)  
+- **Languages**: Slovak (C2) | English (C2) | Czech (C2)  
 
