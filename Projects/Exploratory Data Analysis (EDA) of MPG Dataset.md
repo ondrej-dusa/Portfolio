@@ -9,7 +9,7 @@ This project conducts an Exploratory Data Analysis (EDA) on a dataset containing
 - Displays the first few rows for an initial inspection.  
 
 ```python
-mpg = pd.read_csv('mpg-Ondrej_Dusa.csv')  
+mpg = pd.read_csv('mpg.csv')  
 mpg.head()
 ```
 
@@ -55,6 +55,9 @@ for col in mpg.columns:
 desc_stat = pd.DataFrame(desc_stat).T  
 desc_stat
 ```
+
+![Output](https://github.com/ondrej-dusa/Portfolio/blob/main/assets/MPG%20Analysis.png)
+
 ### 3. Visualization
 
 #### **Acceleration Distribution**
