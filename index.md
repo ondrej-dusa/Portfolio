@@ -9,9 +9,9 @@ author: Ondrej Dusa
 
 # Important Links:
  - ## [Projects](./Projects.md)
-   - ### [1. Two-Year Expense Analysis and Forecasting Project](./Projects/Two-Year Expense Analysis and Forecasting Project.html)
+   - ### [1. Email Classification Using Multinomial Naive Bayes](./Projects/Email Classification Using Multinomial Naive Bayes.html)
    - ### [2. Value at Risk (VaR) Analysis of AAPL Stock](./Projects/Risk Analysis and Value at Risk (VaR).html)
-   - ### [3. Power BI: Coffee & Tea Sales Dashboard 2024](./Projects/Coffee Sales 2024.html)
+   - ### [3. Descriptive Statistics and Data Visualization of MPG Dataset](./Projects/Exploratory Data Analysis (EDA) of MPG Dataset.html)
 
 ---
 
