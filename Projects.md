@@ -5,21 +5,21 @@ layout: default
 
 Here you can explore all the project I have been working on during my studies or personal research.
 
-## [1. Two-Year Expense Analysis and Forecasting Project](.Projects/Two-Year Expense Analysis and Forecasting Project.html)
+This project classifies emails using a Multinomial Naive Bayes model to predict labels (e.g., spam or not spam).
 
-This project analyzes operating and fixed expenses over a two-year period (2025-2026) using Excel to derive key business insights.
+## [1. Email Classification Using Multinomial Naive Bayes](.Projects/Email Classification Using Multinomial Naive Bayes.html
 
 ### Key Steps:
 
-- **Data Collection:** Compiled monthly expense data across multiple categories (salaries, marketing, rent, etc.)  
-- **Trend Analysis:** Identified expense trends and patterns using data visualization and Excel charts.
-- **Forecasting:** Projected future expenses using Excel's forecasting functions.
-- **Dashboard Creation:** Developed interactive dashboards to summarize and present key financial information.
-- **Waterfall Charting:** Showed the Trend in salaries and Loan payments by using Waterfall charts.
-    
-**Technologies:** `Microsoft Excel`, `Power BI`
+- **Data Collection**: Loads email dataset and prepares text data.
+- **Preprocessing**: Cleans text by removing stopwords and applying stemming.
+- **Feature Extraction**: Converts text into numerical features using CountVectorizer.
+- **Model Training**: Trains the Multinomial Naive Bayes model on the data.
+- **Evaluation**: Assesses model performance using a classification report.
 
-**Key Insight:** A comprehensive analysis of operating and fixed expenses to support informed decision-making, planning, and resource allocation.
+Technologies: `Python`, `Pandas`, `NLTK`, `Scikit-learn`, `Google Colab`
+
+Key Insight: Utilizes a probabilistic model to classify emails, with room for improvement in handling class imbalance and model accuracy.
 
 ## [2. Value at Risk (VaR) Analysis of AAPL Stock](./Projects/Risk Analysis and Value at Risk (VaR).html)
 
@@ -36,7 +36,23 @@ Technologies: `R`, `quantmod`, `PerformanceAnalytics`, `ggplot2`, `dplyr`
 
 **Key Insight**: A comparative analysis of different risk estimation techniques to assess potential losses.
 
-## [3. Power BI: Coffee & Tea Sales Dashboard 2024](./Projects/Coffee Sales 2024.html)
+## [3. Two-Year Expense Analysis and Forecasting Project](.Projects/Two-Year Expense Analysis and Forecasting Project.html)
+
+This project analyzes operating and fixed expenses over a two-year period (2025-2026) using Excel to derive key business insights.
+
+### Key Steps:
+
+- **Data Collection:** Compiled monthly expense data across multiple categories (salaries, marketing, rent, etc.)  
+- **Trend Analysis:** Identified expense trends and patterns using data visualization and Excel charts.
+- **Forecasting:** Projected future expenses using Excel's forecasting functions.
+- **Dashboard Creation:** Developed interactive dashboards to summarize and present key financial information.
+- **Waterfall Charting:** Showed the Trend in salaries and Loan payments by using Waterfall charts.
+    
+**Technologies:** `Microsoft Excel`, `Power BI`
+
+**Key Insight:** A comprehensive analysis of operating and fixed expenses to support informed decision-making, planning, and resource allocation.
+
+## [4. Power BI: Coffee & Tea Sales Dashboard 2024](./Projects/Coffee Sales 2024.html)
 
 This project is an interactive Power BI dashboard visualizing 2024 sales data for a coffee and tea company. It offers insights into product performance, market trends, and profitability drivers.
 
@@ -51,7 +67,7 @@ Technologies: `Power BI`, `DAX`, `Data Visualization`
 
 **Key Insight**: Highlights key markets (Central), best-selling products (Colombian Coffee), and overall sales performance trends, enabling data-driven business decisions.
 
-## [4. Descriptive Statistics and Data Visualization of MPG Dataset](./Projects/Exploratory Data Analysis (EDA) of MPG Dataset.html)
+## [5. Descriptive Statistics and Data Visualization of MPG Dataset](./Projects/Exploratory Data Analysis (EDA) of MPG Dataset.html)
 
 This project explores the MPG dataset through descriptive statistics and visualization techniques to analyze acceleration and other key attributes.
 
