@@ -36,38 +36,7 @@ Technologies: `R`, `quantmod`, `PerformanceAnalytics`, `ggplot2`, `dplyr`
 
 **Key Insight**: A comparative analysis of different risk estimation techniques to assess potential losses.
 
-## [3. Two-Year Expense Analysis and Forecasting Project](.Projects/Two-Year Expense Analysis and Forecasting Project.html)
-
-This project analyzes operating and fixed expenses over a two-year period (2025-2026) using Excel to derive key business insights.
-
-### Key Steps:
-
-- **Data Collection:** Compiled monthly expense data across multiple categories (salaries, marketing, rent, etc.)  
-- **Trend Analysis:** Identified expense trends and patterns using data visualization and Excel charts.
-- **Forecasting:** Projected future expenses using Excel's forecasting functions.
-- **Dashboard Creation:** Developed interactive dashboards to summarize and present key financial information.
-- **Waterfall Charting:** Showed the Trend in salaries and Loan payments by using Waterfall charts.
-    
-**Technologies:** `Microsoft Excel`, `Power BI`
-
-**Key Insight:** A comprehensive analysis of operating and fixed expenses to support informed decision-making, planning, and resource allocation.
-
-## [4. Power BI: Coffee & Tea Sales Dashboard 2024](./Projects/Coffee Sales 2024.html)
-
-This project is an interactive Power BI dashboard visualizing 2024 sales data for a coffee and tea company. It offers insights into product performance, market trends, and profitability drivers.
-
-### Key Steps:
-- **Data Aggregation:** Consolidated sales data from various regions and product categories.
-- **KPI Visualization:** Designed clear and concise visuals for key metrics (Total Sales, Profit, Marketing Efficiency).
-- **Interactive Filtering:** Implemented slicers to allow users to explore product-specific data and regional trends.
-- **Geographic Analysis:** Created a map to visualize sales distribution across different locations.
-- **Trend Analysis:** Analyzed monthly sales patterns and identify key seasonal fluctuations.
-
-Technologies: `Power BI`, `DAX`, `Data Visualization`
-
-**Key Insight**: Highlights key markets (Central), best-selling products (Colombian Coffee), and overall sales performance trends, enabling data-driven business decisions.
-
-## [5. Descriptive Statistics and Data Visualization of MPG Dataset](./Projects/Exploratory Data Analysis (EDA) of MPG Dataset.html)
+## [3. Descriptive Statistics and Data Visualization of MPG Dataset](./Projects/Exploratory Data Analysis (EDA) of MPG Dataset.html)
 
 This project explores the MPG dataset through descriptive statistics and visualization techniques to analyze acceleration and other key attributes.
 
