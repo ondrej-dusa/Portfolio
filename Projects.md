@@ -7,7 +7,7 @@ Here you can explore all the project I have been working on during my studies or
 
 This project classifies emails using a Multinomial Naive Bayes model to predict labels (e.g., spam or not spam).
 
-## [1. Email Classification Using Multinomial Naive Bayes](.Projects/Email Classification Using Multinomial Naive Bayes.html)
+## [1. Email Classification Using Multinomial Naive Bayes](./Projects/Email Classification Using Multinomial Naive Bayes.html)
 
 ### Key Steps:
 
