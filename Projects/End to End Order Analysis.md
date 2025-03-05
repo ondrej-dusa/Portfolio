@@ -28,6 +28,9 @@ orders['City (Billing)'] = orders['City (Billing)'].str.title()
 
 orders['Discount Amount'] = orders['Discount Amount'].fillna(0)
 
+orders.columns =orders.columns.str.replace(" ", "_")
+orders.rename(columns={"Quantity_(-_Refund)": "Quantity"}, inplace=True)
+
 desc_stat = {}
 
 for col in orders.columns:
@@ -36,9 +39,24 @@ for col in orders.columns:
     else:
         desc_stat[col] = { "Number missing": orders[col].isna().sum()}
 
-desc_stat = pd.DataFrame(desc_stat)
+def adjust_prices(row):
+  if row['Country_Code(Shipping)'] == 'CZ':
+    row['']
 
+desc_stat = pd.DataFrame(desc_stat)
 orders = orders.dropna()
 
-orders.to_csv('Orders_New_Cleaned.csv', index=False)
+Orders_grouped = orders.groupby(["Order_Number", "Order_Status", "Order_Date", "City_(Billing)", 
+                         "Postcode_(Billing)", "Country_Code_(Shipping)", "Payment_Method_Title", 
+                         "Cart_Discount_Amount", "Cart_Discount_Amount(inc._tax)", 
+                         "Order_Subtotal_Amount", "Shipping_Method_Title", 
+                         "Order_Shipping_Amount", "Order_Refund_Amount", 
+                         "Order_Total_Amount", "Order_Total_Tax_Amount"], as_index=False).agg({
+    "Quantity": "sum"
+})                        
+
+Orders_grouped["Country_Full_Name"] = Orders_grouped["Country_Code_(Shipping)"].map({"SK": "Slovakia", "CZ": "Czech Republic"})
+
+Orders_SK = Orders_grouped[Orders_grouped["Country_Code_(Shipping)"] == "SK"].reset_index(drop=True)
+Orders_CZ = Orders_grouped[Orders_grouped["Country_Code_(Shipping)"] == "CZ"].reset_index(drop=True)
 ```
