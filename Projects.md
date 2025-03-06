@@ -7,7 +7,21 @@ Here you can explore all the project I have been working on during my studies or
 
 This project classifies emails using a Multinomial Naive Bayes model to predict labels (e.g., spam or not spam).
 
-## [1. Email Classification Using Multinomial Naive Bayes](./Projects/Email Classification Using Multinomial Naive Bayes.html)
+## [1. E-commerce Sales Analysis](./Projects/E-commerce Sales Analysis.html)
+
+### Key Steps:
+
+- **Data Collection**: Imported sales data and prepared it for analysis in Power BI.
+- **Data Cleaning & Transformation**: Processed missing values, standardized formats, and created calculated fields.
+- **Visualization & Analysis**: Built interactive dashboards to analyze sales trends, customer behavior, and product performance.
+- **Insights Extraction**: Identified seasonal sales patterns, market expansion opportunities, and pricing strategies.
+- **Recommendations**: Proposed data-driven strategies for inventory optimization, targeted marketing, and revenue growth.
+
+**Technologies**: `Power BI`, `SQL`, `Excel`
+
+**Key Insight**: Utilizes a probabilistic model to classify emails, with room for improvement in handling class imbalance and model accuracy.
+
+## [2. Email Classification Using Multinomial Naive Bayes](./Projects/Email Classification Using Multinomial Naive Bayes.html)
 
 ### Key Steps:
 
@@ -17,11 +31,11 @@ This project classifies emails using a Multinomial Naive Bayes model to predict 
 - **Model Training**: Trains the Multinomial Naive Bayes model on the data.
 - **Evaluation**: Assesses model performance using a classification report.
 
-Technologies: `Python`, `Pandas`, `NLTK`, `Scikit-learn`, `Google Colab`
+**Technologies**: `Python`, `Pandas`, `NLTK`, `Scikit-learn`, `Google Colab`
 
-Key Insight: Utilizes a probabilistic model to classify emails, with room for improvement in handling class imbalance and model accuracy.
+**Key Insight**: Utilizes a probabilistic model to classify emails, with room for improvement in handling class imbalance and model accuracy.
 
-## [2. Value at Risk (VaR) Analysis of AAPL Stock](./Projects/Risk Analysis and Value at Risk (VaR).html)
+## [3. Value at Risk (VaR) Analysis of AAPL Stock](./Projects/Risk Analysis and Value at Risk (VaR).html)
 
 This project analyzes the Value at Risk (VaR) of Apple Inc. (AAPL) stock using historical, parametric, and Monte Carlo methods. 
 
@@ -32,11 +46,11 @@ This project analyzes the Value at Risk (VaR) of Apple Inc. (AAPL) stock using h
 - **Backtesting:** Counts exceptions to evaluate VaR model accuracy.
 - **Visualization:** Plots return distribution with VaR thresholds.
 
-Technologies: `R`, `quantmod`, `PerformanceAnalytics`, `ggplot2`, `dplyr`
+**Technologies**: `R`, `quantmod`, `PerformanceAnalytics`, `ggplot2`, `dplyr`
 
 **Key Insight**: A comparative analysis of different risk estimation techniques to assess potential losses.
 
-## [3. Descriptive Statistics and Data Visualization of MPG Dataset](./Projects/Exploratory Data Analysis (EDA) of MPG Dataset.html)
+## [4. Descriptive Statistics and Data Visualization of MPG Dataset](./Projects/Exploratory Data Analysis (EDA) of MPG Dataset.html)
 
 This project explores the MPG dataset through descriptive statistics and visualization techniques to analyze acceleration and other key attributes.
 
@@ -47,7 +61,7 @@ This project explores the MPG dataset through descriptive statistics and visuali
 - **Histogram Analysis:** Plots acceleration distribution with KDE overlay and statistical annotations.
 - **Boxplot & Grouped Histograms:** Visualizes acceleration across different cylinder configurations.  
 
-Technologies: `Python`, `pandas`, `matplotlib`, `seaborn`, `scipy`
+**Technologies**: `Python`, `pandas`, `matplotlib`, `seaborn`, `scipy`
 
 **Key Insight**: Statistical and visual exploration of vehicle acceleration patterns, highlighting distribution characteristics and differences by engine type.
 
