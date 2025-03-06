@@ -24,6 +24,8 @@ navigation:
   - name: Projects
     link: https://ondrej-dusa.github.io/Portfolio/Projects.html
     sublist:
+      - name: E-commerce Sales Analysis
+        link: https://ondrej-dusa.github.io/Portfolio/Projects/E-commerce%20Sales%20Analysis.html
       - name: Email Classification
         link: https://ondrej-dusa.github.io/Portfolio/Projects/Email%20Classification%20Using%20Multinomial%20Naive%20Bayes.html
       - name: Risk Analysis (VaR)
