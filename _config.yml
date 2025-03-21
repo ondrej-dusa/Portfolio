@@ -21,6 +21,8 @@ platforms:
 navigation:
   - name: Resume
     link: https://ondrej-dusa.github.io/Portfolio/
+  - name: Websites
+    link: https://ondrej-dusa.github.io/Portfolio/Websites.html
   - name: Projects
     link: https://ondrej-dusa.github.io/Portfolio/Projects.html
     sublist:
