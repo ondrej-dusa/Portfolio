@@ -3,7 +3,7 @@ layout: default
 ---
 # Projects
 
-Here you can explore all the project I have been working on during my studies or personal research.
+My expertise in data showcases my ability to extract valuable insights from complex datasets and drive data-informed decision-making. Throughout my career, I've worked on a diverse range of projects utilizing cutting-edge technologies and methodologies. From developing predictive machine learning models in Python and R to crafting intricate SQL queries for data manipulation, my work demonstrates a comprehensive approach to data analysis. I've also created dynamic visualizations and interactive dashboards using industry-standard BI tools such as Power BI and Tableau, translating raw data into actionable business intelligence. Below, you'll find a selection of my most impactful projects, highlighting my proficiency in statistical analysis, predictive modeling, and data visualization across various industries and applications.
 
 ## [1. E-commerce Sales Analysis](./Projects/E-commerce Sales Analysis.html)
 
