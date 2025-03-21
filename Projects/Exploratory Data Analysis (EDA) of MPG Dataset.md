@@ -56,7 +56,7 @@ desc_stat = pd.DataFrame(desc_stat).T
 desc_stat
 ```
 
-![Output](https://github.com/ondrej-dusa/Portfolio/blob/886b21a9c699e367e8034fa2c291faaff48b0f4d/assets/MPG_Analysis.png)
+![Output](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/MPGAnalysis.png)
 
 ### 3. Visualization
 
