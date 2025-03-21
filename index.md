@@ -8,11 +8,11 @@ author: Ondrej Dusa
 ✉️ [dusaondrej@gmail.com](mailto:dusaondrej@gmail.com) | [LinkedIn - Ondrej Dusa](https://www.linkedin.com/in/ondrej-dusa-10955b21a/)  
 
 # Important Links:
- - ## [Projects](./Projects.md)
+ - ### [Projects](./Projects.md)
    - ### [1. Email Classification Using Multinomial Naive Bayes](./Projects/Email Classification Using Multinomial Naive Bayes.html)
    - ### [2. Value at Risk (VaR) Analysis of AAPL Stock](./Projects/Risk Analysis and Value at Risk (VaR).html)
    - ### [3. Descriptive Statistics and Data Visualization of MPG Dataset](./Projects/Exploratory Data Analysis (EDA) of MPG Dataset.html)
-
+ - ### [Websites](./Websites.md)
 ---
 
 ## 🎓 Education  
