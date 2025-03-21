@@ -5,9 +5,9 @@ layout: default
 
 Here you can explore all the project I have been working on during my studies or personal research.
 
-This project classifies emails using a Multinomial Naive Bayes model to predict labels (e.g., spam or not spam).
-
 ## [1. E-commerce Sales Analysis](./Projects/E-commerce Sales Analysis.html)
+
+This project classifies emails using a Multinomial Naive Bayes model to predict labels (e.g., spam or not spam).
 
 ### Key Steps:
 
