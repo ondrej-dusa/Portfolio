@@ -4,6 +4,7 @@ author: Ondrej Dusa
 ---
 
 # Ondrej Duša  
+### Ways to Contact:
 📞 +1 (636) 389 7921 | 📍 Charlotte, NC 28274  
 ✉️ [dusaondrej@gmail.com](mailto:dusaondrej@gmail.com) | [LinkedIn - Ondrej Dusa](https://www.linkedin.com/in/ondrejdusa/)  
 
