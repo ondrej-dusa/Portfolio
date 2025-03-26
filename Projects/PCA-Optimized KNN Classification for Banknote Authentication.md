@@ -75,6 +75,10 @@ Actual True (Counterfeit)	0	190
 
 ## Visualization
 
+![PCA](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/PCA_Banknotes.png)
+
+![Best_K](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Best_K_Banknotes.png)
+
 ## Summary
 
 This project demonstrates how dimensionality reduction and hyperparameter tuning can enhance classification models for fraud detection. PCA reduces feature complexity, and KNN's optimization ensures high accuracy in banknote authentication. The PCA transformation successfully reduced dimensionality while preserving key information, improving efficiency without loss of classification power. KNN with best_k = 6 provided optimal performance, maximizing recall and minimizing misclassification. The model is highly effective for banknote authentication, making it a strong candidate for real-world fraud detection applications.
