@@ -5,7 +5,7 @@ layout: default
 
 My expertise in data showcases my ability to extract valuable insights from complex datasets and drive data-informed decision-making. Throughout my career, I've worked on a diverse range of projects utilizing cutting-edge technologies and methodologies. From developing predictive machine learning models in Python and R to crafting intricate SQL queries for data manipulation, my work demonstrates a comprehensive approach to data analysis. I've also created dynamic visualizations and interactive dashboards using industry-standard BI tools such as Power BI and Tableau, translating raw data into actionable business intelligence. Below, you'll find a selection of my most impactful projects, highlighting my proficiency in statistical analysis, predictive modeling, and data visualization across various industries and applications.
 
-## [1. E-commerce Sales Analysis](./Projects/E-commerce Sales Analysis.html)
+## [E-commerce Sales Analysis](./Projects/E-commerce Sales Analysis.html)
 
 This project classifies emails using a Multinomial Naive Bayes model to predict labels (e.g., spam or not spam).
 
@@ -21,7 +21,22 @@ This project classifies emails using a Multinomial Naive Bayes model to predict 
 
 **Key Insight**: Utilizes a probabilistic model to classify emails, with room for improvement in handling class imbalance and model accuracy.
 
-## [2. Email Classification Using Multinomial Naive Bayes](./Projects/Email Classification Using Multinomial Naive Bayes.html)
+## [Banknote Authentication Using PCA and KNN](./Projects/PCA-Optimized KNN Classification for Banknote Authentication.html)
+
+This project uses K-Nearest Neighbors (KNN) with PCA for banknote authentication, optimizing accuracy and fraud detection.
+
+### Key Steps:
+
+ - **Dimensionality Reduction**: Applied PCA to extract key features related to banknote dimensions.
+ - **Model Selection**: Identified the best k=6 for KNN based on recall optimization.
+ - **Training & Testing**: Classified banknotes into genuine or counterfeit using KNN.
+ - **Evaluation**: Achieved 99% accuracy, with perfect recall for counterfeit detection.
+
+**Technologies**: `Python`, `Scikit-learn`, `PCA`, `KNN`, `Pandas`, `Numpy`, `Google Colab`
+
+**Key Insight**: The model effectively detects counterfeit banknotes with near-perfect recall, minimizing false negatives in fraud detection.
+
+## [Email Classification Using Multinomial Naive Bayes](./Projects/Email Classification Using Multinomial Naive Bayes.html)
 
 ### Key Steps:
 
@@ -35,7 +50,7 @@ This project classifies emails using a Multinomial Naive Bayes model to predict 
 
 **Key Insight**: Utilizes a probabilistic model to classify emails, with room for improvement in handling class imbalance and model accuracy.
 
-## [3. Value at Risk (VaR) Analysis of AAPL Stock](./Projects/Risk Analysis and Value at Risk (VaR).html)
+## [Value at Risk (VaR) Analysis of AAPL Stock](./Projects/Risk Analysis and Value at Risk (VaR).html)
 
 This project analyzes the Value at Risk (VaR) of Apple Inc. (AAPL) stock using historical, parametric, and Monte Carlo methods. 
 
@@ -46,11 +61,11 @@ This project analyzes the Value at Risk (VaR) of Apple Inc. (AAPL) stock using h
 - **Backtesting:** Counts exceptions to evaluate VaR model accuracy.
 - **Visualization:** Plots return distribution with VaR thresholds.
 
-**Technologies**: `R`, `quantmod`, `PerformanceAnalytics`, `ggplot2`, `dplyr`
+**Technologies**: `R`, `quantmod`, `PerformanceAnalytics`, `ggplot2`, `dplyr`,
 
 **Key Insight**: A comparative analysis of different risk estimation techniques to assess potential losses.
 
-## [4. Descriptive Statistics and Data Visualization of MPG Dataset](./Projects/Exploratory Data Analysis (EDA) of MPG Dataset.html)
+## [Descriptive Statistics and Data Visualization of MPG Dataset](./Projects/Exploratory Data Analysis (EDA) of MPG Dataset.html)
 
 This project explores the MPG dataset through descriptive statistics and visualization techniques to analyze acceleration and other key attributes.
 
