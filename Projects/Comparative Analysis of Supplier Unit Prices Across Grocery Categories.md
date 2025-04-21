@@ -1,10 +1,10 @@
-# **Supplier Price Comparisson Analysis**
-
-![E-commerce Sales Analysis](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/E-commerce_Sales_Analysis.png)
+# **Comparative Analysis of Supplier Unit Prices Across Grocery Categories**
 
 ### **Project Overview**
 
 The Analysis question I will be exploring for this project is to compare prices of different suppliers to see if there is a significant difference between supplier unit prices in the different grocery categories. This analysis will be important not only for the stores business decision makers, supply chain management and operations team to see if some suppliers are over charging them compared to others, but also for the customers to know why some products might be more expensive than others while the quality is assumed constant.
+
+![E-commerce Sales Analysis](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/E-commerce_Sales_Analysis.png)
 
 # Data Overview
 
