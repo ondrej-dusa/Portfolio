@@ -4,7 +4,7 @@
 
 The Analysis question I will be exploring for this project is to compare prices of different suppliers to see if there is a significant difference between supplier unit prices in the different grocery categories. This analysis will be important not only for the stores business decision makers, supply chain management and operations team to see if some suppliers are over charging them compared to others, but also for the customers to know why some products might be more expensive than others while the quality is assumed constant.
 
-![E-commerce Sales Analysis](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/E-commerce_Sales_Analysis.png)
+![Interaction Plot](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Grocery_Interaction.png)
 
 # Data Overview
 
@@ -43,7 +43,7 @@ The Analysis question I will be exploring for this project is to compare prices 
 
 ## ANOVA Results
 
-![E-commerce Sales Analysis](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/E-commerce_Sales_Analysis.png)
+![Anova Results](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Grocery_Anova.png)
 
 ## Interpretation:
 
@@ -55,6 +55,8 @@ The Analysis question I will be exploring for this project is to compare prices 
 
 - Normality: Residuals approximately normal (Shapiro-Wilk p = 0.967), supported by QQ plot
 - Homogeneity: Levene’s Test p = 0.839, indicating equal variances across groups
+
+![QQ plot Residuals](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/Grocery_Residuals.png)
 
 ## Key Findings
 
