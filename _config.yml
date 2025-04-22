@@ -26,6 +26,8 @@ navigation:
   - name: Projects
     link: https://ondrej-dusa.github.io/Portfolio/Projects.html
     sublist:
+      - name: Customer Support Ticket Classification
+        link: https://ondrej-dusa.github.io/Portfolio/Projects/Multilingual%20Customer%20Support%20Ticket%20Classification%20Using%20SVM.html
       - name: E-commerce Sales Analysis
         link: https://ondrej-dusa.github.io/Portfolio/Projects/E-commerce%20Sales%20Analysis.html
       - name: Email Classification
