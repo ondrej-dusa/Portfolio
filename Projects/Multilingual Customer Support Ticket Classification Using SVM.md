@@ -69,3 +69,5 @@ Incorporate additional ticket fields (subject, tags) to provide more context.
 ## Conclusion
 
 This project demonstrates the viability of SVMs for multilingual customer support ticket classification, with robust performance in English and clear areas for improvement in German. The results underscore the importance of language-specific preprocessing and data balancing in real-world NLP applications. Future work should focus on advanced feature engineering and model architectures to bridge the performance gap across languages.
+
+### [Back](https://ondrej-dusa.github.io/Portfolio/Projects.html)
