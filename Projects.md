@@ -5,6 +5,22 @@ layout: default
 
 My expertise in data showcases my ability to extract valuable insights from complex datasets and drive data-informed decision-making. Throughout my career, I've worked on a diverse range of projects utilizing cutting-edge technologies and methodologies. From developing predictive machine learning models in Python and R to crafting intricate SQL queries for data manipulation, my work demonstrates a comprehensive approach to data analysis. I've also created dynamic visualizations and interactive dashboards using industry-standard BI tools such as Power BI and Tableau, translating raw data into actionable business intelligence. Below, you'll find a selection of my most impactful projects, highlighting my proficiency in statistical analysis, predictive modeling, and data visualization across various industries and applications.
 
+## [Multilingual Customer Support Ticket Classification Using SVM](./Projects/Multilingual Customer Support Ticket Classification Using SVM.html)
+
+This project classifies multilingual customer support tickets using Support Vector Machines (SVM) to predict ticket types.
+
+### Key Steps:
+
+- **Data Collection:** Downloaded a multilingual customer support ticket dataset from Kaggle.
+- **Data Cleaning & Transformation:** Preprocessed text data using TF-IDF, one-hot encoded categorical features, and balanced classes with SMOTE.
+- **Model Training:** Trained SVM models for English and German ticket classification.
+- **Model Evaluation:** Assessed model performance using accuracy, precision, recall, and F1-score.
+- **Analysis:** Compared performance across languages and identified areas for improvement.
+
+**Technologies:** `Python`, `scikit-learn`, `pandas`, `imblearn`, `matplotlib`, `seaborn`
+
+**Key Insight:** SVMs can effectively classify customer support tickets, with performance varying by language due to data characteristics and linguistic complexities. Further improvements are needed to enhance cross-linguistic generalizability.
+
 ## [E-commerce Sales Analysis](./Projects/E-commerce Sales Analysis.html)
 
 This project classifies emails using a Multinomial Naive Bayes model to predict labels (e.g., spam or not spam).
